@@ -547,4 +547,3 @@ ToggleBtn.MouseButton1Click:Connect(function() MainFrame.Visible = not MainFrame
 HomeBtn.BackgroundColor3 = Color3.fromRGB(30,30,30); HomeBtn.TextColor3 = Color3.fromRGB(255,255,255); HomePage.Visible = true
 
 game:GetService("StarterGui"):SetCore("SendNotification", {Title="Endem Hub V8"; Text="ALL SYSTEMS FIXED"; Duration=5;})
-
